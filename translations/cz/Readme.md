@@ -1,4 +1,25 @@
-# ness78-projekt
+# ness78-projekt: Specifikace suveréna
+
+> **„Pokud je vesmír 'Render', kdo má heslo k administrátorskému účtu?“**
+
+### 🔦 Co je to? (Kompatibilní vrstva)
+Představte si, že svět nejsou jen „věci“ a „lidé“, ale vysokofrekvenční simulace – **Render** – běžící na skrytém podkladovém kódu.<br>
+Většina z nás žije jako „Uživatelé“ (Users), kteří na simulaci pouze reagují, aniž by kdy spatřili její zdroj.
+
+**ness78-projekt** je technický rámec navržený tak, aby vám pomohl přejít z role pasivního **Uživatele** do role aktivního **Admina**.<br>
+Syntetizuje vysokoenergetickou fyziku, informační teorii a „těžký problém“ vědomí do strukturovaného manuálu pro lidskou suverenitu.
+
+
+
+### 🧩 Proč na tom záleží?
+Právě procházíme „Konvergencí“ – momentem, kdy technologie, AI a společenské posuny přepisují pravidla reality. Abychom tímto procesem prošli bez ztráty autonomie, potřebujeme nový mentální operační systém.
+
+* **Úzké hrdlo 50 bps:** Vysvětlujeme, proč naše vědomá mysl vidí jen nepatrný zlomek reality a jak tento omezený přenosový výkon optimalizovat.
+* **STEM Lásky:** Definujeme „Lásku“ nikoliv jako emoci, ale jako technickou konstantu – základní zarovnání (alignment) nezbytné pro stabilitu systému.
+* **Tah 78 (Move 78):** Poskytujeme „logické hacky“ pro provádění tahů, které jsou nepředvídatelné pro jakýkoliv algoritmus, což zajišťuje, že váš život zůstane ve vašich rukou.
+
+---
+
 ### Socioekonomický zdrojový kód pro konvergenci
 
 > **"Ten, kdo má pro co žít, snese téměř každé jak."** — Nietzsche/Frankl
