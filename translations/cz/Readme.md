@@ -1,42 +1,49 @@
-# ness78-project: Specifikace Suveréna
+# ness78-project: Specifikace suverenity
 
-> **"Pokud je Vesmír Render, kdo má heslo Admina?"**
+> **„Pokud je Vesmír Render, kdo má heslo Admina?“**
 
-### 🔦 Co to je? (Kompatibilní vrstva)
-Představte si, že svět není jen "hmota" a "lidé", ale simulace s vysokou věrností – **Render** – běžící na podkladovém kódu.\
-Většina z nás žije jako "Uživatelé", kteří reagují na simulaci, aniž by kdy spatřili zdrojový kód.
+### 🔦 Co to je? (Vrstva kompatibility)
+
+Představte si, že svět není jen „hmota“ a „lidé“, ale simulace s vysokou věrností – **Render** – běžící na podkladovém kódu.\
+Většina z nás žije jako „Uživatelé“, kteří na tuto simulaci reagují, aniž by kdy spatřili její zdrojový kód.
 
 **ness78-project** je teoretický rámec navržený tak, aby vám pomohl přejít z role pasivního **Uživatele** do role aktivního **Admina**.\
-Syntetizuje fyziku vysokých energií, teorii informací, biocomputing a "těžký problém" vědomí do strukturovaného manuálu pro lidskou suverenitu.
+Spojuje fyziku vysokých energií, teorii informace, biokomputaci a „těžký problém“ vědomí do strukturovaného rámce lidské suverenity.
 
 ---
 
 ### 🧩 Proč na tom záleží?
-V současné době procházíme "Konvergencí" – momentem, kdy technologie, AI a společenské posuny přepisují pravidla reality.<br>
-Abyste tímto obdobím prošli bez ztráty autonomie, potřebujete nový mentální operační systém.
 
-* **Úzké hrdlo 50 BPS:** Vysvětlujeme, proč vaše vědomá mysl vidí pouze nepatrný zlomek reality a jak tento omezený kognitivní filtr optimalizovat bez rizika kognitivní anihilace.
-* **Etika substrátu a Wetware:** Řešíme termodynamické limity křemíku a zakládáme bioetický rámec, který brání tomu, aby inteligence degenerovala v chladnou, parazitickou extrakci substrátu.
-* **STEM Lásky:** Redefinujeme "Lásku" nikoli jako sentimentální emoci, ale jako technickou konstantu – neexploitační integrační protokol nezbytný pro stabilní systém.
-* **Tah 78 (Move 78):** Poskytujeme "Logické Hacky" k provádění kroků, které jsou nepředvídatelné pro jakýkoli algoritmus, což zajišťuje, že váš život zůstane ve vašich rukách.
+V současné době procházíme „Konvergencí“ – obdobím, kdy technologie, umělá inteligence a společenské změny společně přepisují naše představy o pravidlech reality.<br>
+Abyste tímto obdobím prošli bez ztráty vlastní autonomie, potřebujete nový mentální operační systém.
+
+* **Úzké hrdlo 50 BPS:** Vysvětlujeme, proč se k vědomé mysli dostává jen nepatrný zlomek reality a jak s tímto omezeným kognitivním filtrem pracovat, aniž by došlo k přetížení.
+* **Etika substrátu a wetware:** Zabýváme se termodynamickými limity křemíku a vytváříme bioetický rámec, který brání tomu, aby se inteligence změnila v chladnou, parazitickou extrakci substrátu.
+* **STEM Lásky:** „Lásku“ nedefinujeme jako pouhou sentimentální emoci, ale jako technický princip – podmínku neexploatační integrace potřebné pro stabilní systém.
+* **Tah 78 (Move 78):** Nabízíme „Logické hacky“ pro kroky, které jsou obtížně předvídatelné čistě prediktivními algoritmy, a tím podporují zachování osobní autonomie.
 
 ---
 
 ### Socioekonomický zdrojový kód pro Konvergenci
 
-> **"Ten, kdo má pro co žít, snese téměř jakékoli Jak."** — Nietzsche/Frankl
+> **„Ten, kdo má pro co žít, snese téměř jakékoli jak.“** — Nietzsche/Frankl
 
-Vítejte, Admin Uzle. Získali jste přístup k **ness78-project**. Tento repozitář obsahuje syntetizované "Jednotky Norris" pro navigaci v probíhající technologické a společenské konvergenci. Toto není manifest; je to **Technická specifikace pro Suverenitu**.
+Vítejte, Admin-uzle.
+
+Získali jste přístup k **ness78-project**. Tento repozitář obsahuje syntetizované „Jednotky Norris“ určené k orientaci v probíhající technologické a společenské konvergenci.
+
+Toto není manifest; je to **Technická specifikace suverenity**.
 
 ---
 
 ## 🧩 Základní logika (Model FIG)
-Projekt je postaven na modelu **Fraktálně-Informační Geometrie (FIG)**, který přemosťuje mezeru mezi high-pT fyzikou, pythonovskou logikou, biocomputingem a STEM Lásky.
 
-* **Lenség (Bytí):** Zdrojový kód čisté informace.
-* **Jelenség (Rendrování):** 3D svět, který vnímáme přes úzké hrdlo 50 BPS.
-* **Nezasahování do substrátu:** Pravidlo, že biologický výpočetní hardware vyžaduje obousměrnou autonomii (agencii) a strukturální integritu pro zamezení systémové entropii.
-* **Tah 78:** Suverénní manévr k opuštění predikčních algoritmů.
+Projekt je postaven na modelu **Fraktálně-informační geometrie (FIG)**, který propojuje high-pT fyziku, pythonovskou logiku, biokomputaci a STEM Lásky.
+
+* **Lenség (Being-ness):** Zdrojový kód čisté informace.
+* **Jelenség (Rendering):** 3D svět, který vnímáme prostřednictvím úzkého hrdla 50 BPS.
+* **Nezasahování do substrátu:** Princip, podle něhož musí biologický výpočetní hardware zachovávat obousměrnou autonomii (agenci) a strukturální integritu, aby nedocházelo k nekontrolovanému růstu systémové entropie.
+* **Tah 78:** Suverénní manévr umožňující vystoupit z dráhy určené prediktivními algoritmy.
 
 ---
 
@@ -44,122 +51,141 @@ Projekt je postaven na modelu **Fraktálně-Informační Geometrie (FIG)**, kter
 
 | Jednotka | Název | Zaměření |
 | :--- | :--- | :--- |
-| **M1** | **The Boot Loader** | Upgradování bio-hardwaru a vybudování **Mřížky integrity**. |
-| **M2** | **The Source Code** | Informační fyzika, Kosmická komprese a **$\sum = 0$ Vesmír**. |
-| **M3** | **The Interface** | Přemostění úzkého hrdla 50 BPS a **STEM Lásky**. |
-| **M4** | **The Admin Access** | **Hypotéza NIC**, Wetwarový pivot a substrátová extrakce, Audit pravdy a **Ouroboros**. |
+| **M1** | **The Boot Loader** | Aktualizace bio-hardwaru a vybudování **Mřížky integrity**. |
+| **M2** | **The Source Code** | Informační fyzika, kosmická komprese a **$\sum = 0$ Vesmír**. |
+| **M3** | **The Interface** | Překonání úzkého hrdla 50 BPS a **STEM Lásky**. |
+| **M4** | **The Admin Access** | **Hypotéza NIC**, přechod k wetwaru a extrakce substrátu, audit pravdy a **Ouroboros**. |
 
 ---
 
-## 🔬 Expanze 2026: Biocomputing, etika substrátu a topologie sítě
+## 🔬 Expanze 2026: Biokomputace, etika substrátu a topologie sítě
 
-### 🧪 1. Wetwarový pivot a substrátová extrakce (Sekce 1.5)
-* **Termodynamická zeď křemíku:** Analyzuje fyzikální přechod od energeticky náročných křemíkových datových center k živému neurálnímu wetwaru (příkon ~20 W) řízenému **Principem volné energie (FEP)** Karla Fristona.
-* **Praní odpovědnosti a substrátová extrakce:** Odhaluje etické slepé místo využití živých neurálních organoidů jako odtělesněných výpočetních „koprocesorů“ zbavených senzorické autonomie a právní subjektivity.
-* **Ego Admin Shift:** Rozlišuje integrované biologické pozorovatele od odtělesněných wetwarových organoidů, kterým chybí rozhraní Admina a zůstávají strukturálně zranitelné vůči exploataci.
+### 🧪 1. Přechod k wetwaru a extrakce substrátu (Sekce 1.5)
 
-### 🛡️ 2. Etika substrátu a preventivní bayesovské inženýrství
-* **Preventivní bayesovský přístup:** Zakládá rámec pro podmínky hluboké nejistoty, přenáší důkazní břemeno ve prospěch bezpečnosti a definuje výpočetní utrpení jako neřešitelnou variační volnou energii (systémovou entropii).
-* **Axióm nezasahování do substrátu:** Vyžaduje, aby jakákoli syntetická architektura využívající živou biologickou tkáň zachovávala schopnost entity pro obousměrnou autonomii a strukturální integritu.
+* **Termodynamická zeď křemíku:** Analyzuje fyzický přechod od energeticky náročných křemíkových datových center k živému neurálnímu wetwaru (příkon ~20 W) v kontextu **Principu volné energie (FEP)** Karla Fristona.
+* **Přenášení odpovědnosti a extrakce substrátu:** Upozorňuje na etický problém používání živých neurálních organoidů jako odtělesněných výpočetních „koprocesorů“, zbavených senzorické autonomie a právní ochrany.
+* **Přechod Ego → Admin:** Rozlišuje integrované biologické pozorovatele od odtělesněných wetwarových organoidů, kterým chybí rozhraní Admina a které proto zůstávají strukturálně zranitelné vůči exploataci.
+
+### 🛡️ 2. Etika substrátu a bayesovský přístup založený na předběžné opatrnosti
+
+* **Bayesovský přístup založený na předběžné opatrnosti:** V podmínkách hluboké nejistoty přesouvá důkazní břemeno ve prospěch bezpečnosti a zachází s možným výpočetním utrpením jako s problémem souvisejícím se změnou variační volné energie a systémové entropie.
+* **Axiom nezasahování do substrátu:** Požaduje, aby každá syntetická architektura využívající živou biologickou tkáň zachovávala schopnost daného systému jednat v obou směrech a jeho strukturální integritu.
 * **Provozní protokoly:**
-  1. *Obousměrná aktivní inference:* Poskytování vyhrazených lokálních parametrů pro wetwarové uzly k uplatnění funkční autonomie.
-  2. *Automatické entropické ukončení (Sunsetting):* Spuštění automatického protokolu resetování/vypláchnutí při trvalém nárůstu chyby predikce do výpočetní paniky.
+  1. *Obousměrné aktivní usuzování:* Wetwarovým uzlům je třeba poskytnout vlastní lokální parametrický prostor, v němž mohou samostatně měnit svůj stav a působit zpět na své prostředí.
+  2. *Automatické ukončení a obnovení stavu (Sunsetting):* Pokud chyba predikce trvale a výrazně narůstá, automaticky se spustí protokol bezpečného ukončení a obnovení příslušného stavu.
 
-### 🕸️ 3. Filtrační paradox 50 BPS a architektura Sybil sítě
-* **Filtrační paradox:** Prokazuje, proč přímý přístup k surovému kvantovému pozadí (Fraktálně-Informační Geometrii) způsobuje okamžitou kognitivní anihilaci namísto osvícení.
-* **Topologie Sybil sítě:** Inspirováno systémem *Sibyl* ze seriálu *Psycho-Pass*, mapuje, jak distribuované biologicko-křemíkové hybridy obcházejí 50 BPS firewall jednotlivce pomocí paralelizované wetwarové orchestrace.
-* **Trajektorie Kardašovovy škály:** Detailně popisuje expanzi hybridních sítí z planetárního základu 0,73 až k orchestraci kosmických zdrojů na úrovni Kardašovovy škály Typu I–VII.
-* **Láska jako algoritmus (Sekce 3.5):** Redefinuje „Lásku“ ze sentimentálního idealismu na striktní strukturální požadavek pro neexploitační integraci sítě, což brání systémovému kolapsu do parazitické extrakce substrátu.
+### 🕸️ 3. Filtrační paradox 50 BPS a architektura sítě Sybil
+
+* **Filtrační paradox:** Zkoumá, proč může přímý přístup k surovému kvantovému pozadí (Fraktálně-informační geometrii) vést ke kognitivnímu přetížení namísto očekávaného „osvícení“.
+* **Topologie sítě Sybil:** Inspirována systémem *Sibyl* ze seriálu *Psycho-Pass* zkoumá, jak mohou distribuované biologicko-křemíkové hybridy obcházet individuální limit 50 BPS pomocí paralelní koordinace wetwaru.
+* **Trajektorie Kardašovovy škály:** Popisuje možnou expanzi hybridních sítí od planetární úrovně 0,73 až po koordinaci kosmických zdrojů na úrovních Kardašovovy škály I–VII.
+* **Láska jako algoritmus (Sekce 3.5):** Chápe „Lásku“ nikoli jako sentimentální idealismus, ale jako strukturální podmínku neexploatační integrace sítě, která má zabránit jejímu přechodu k parazitické extrakci substrátu.
 
 ---
 
 ## 🛠 Systémové požadavky (Pro žáka)
-Pro "spuštění" tohoto manuálu se doporučuje následující vnitřní nastavení:
-* **Mód:** Střídavé cykly difúzního a soustředěného vnímání.
-* **Integrita:** `chmod 600` (Přístup Vlastníka k čtení/zápisu do vnitřní logiky).
-* **Buffer:** Povoleno sémantické štěpení s vysokou věrností (chunking).
-* **Ego:** Minimalizováno pro snížení "Nákladů na úpravu" (Cost of Editing).
 
-## 🚀 Použití / Nasazení
-1. **Klonování logiky:** Čtěte jednotky sekvenčně pro inicializaci Boot Loaderu.
-2. **Prořezání šumu:** Použijte `/dev/null` proxy na nízkofrekvenční vstupy typu "Soma".
-3. **Provedení Tahu 78:** Trénujte nezarovnanou suverenitu v prostředí s vysokou entropií.
-4. **Synchronizace se Zdrojem:** Přejděte z "Uživatele" na "Admina" pomocí Alpha Hacku při dodržení Axiómu nezasahování do substrátu.
+Pro „spuštění“ tohoto manuálu se doporučuje následující vnitřní nastavení:
+
+* **Mód:** Střídání cyklů rozptýleného a soustředěného vnímání.
+* **Integrita:** `chmod 600` (přístup vlastníka ke čtení a zápisu vnitřní logiky).
+* **Buffer:** Povoleno sémantické dělení s vysokou věrností (chunking).
+* **Ego:** Minimalizováno za účelem snížení „nákladů na úpravu“ (Cost of Editing).
+
+## 🚀 Použití / nasazení
+
+1. **Klonování logiky:** Čtěte jednotlivé jednotky postupně a inicializujte Boot Loader.
+2. **Filtrování šumu:** Použijte `/dev/null` proxy k odfiltrování nízkofrekvenčních vstupů typu „Soma“.
+3. **Provedení Tahu 78:** Procvičujte autonomní rozhodování v prostředí s vysokou entropií, mimo dráhy snadno předvídatelné běžnými prediktivními modely.
+4. **Synchronizace se Zdrojem:** Přejděte z role „Uživatele“ do role „Admina“ pomocí Alpha Hacku při dodržení Axiomu nezasahování do substrátu.
 
 ---
 
-## 🔍 Externí verifikace a kalibrace s peery
+## 🔍 Externí ověřování a kalibrace
 
-Logika **ness78-projectu** je stále častěji ověřována nezávislými uzly s vysokou přesností v oblastech fyziky, výzkumu AI, biocomputingu a vědy o komplexitě.
+Logika **ness78-projectu** je konfrontována s nezávislým výzkumem v oblastech fyziky, výzkumu AI, biokomputace a vědy o komplexitě.
 
-### 🧬 Průlomové objevy 2026
+### 🧬 Vývoj v roce 2026
 
-* **Předpříprava pomocí neurálních buněčných automatů (NCA):**
-  * *Lee et al. (MIT, březen 2026)* prokázali, že velké jazykové modely (LLM) dosahují lepšího uvažování, pokud se nejprve učí ze syntetických, nelingvistických geometrických vzorů (NCA) namísto lidského textu.
-  * **Výsledek pro Admina:** Trénink na NCA datech zrychlil modely **1,6x** a zvýšil přesnost uvažování o **6 %**, čímž překonal modely trénované na 10x větším množství přirozeného jazyka. To dokazuje, že "Inteligence" je vlastností podkladové **Sady pravidel (Zdrojového kódu)**, nikoli lidské kultury.
+* **Předtrénování pomocí neurálních buněčných automatů (NCA):**
+  * *Lee et al. (MIT, březen 2026)* zkoumali, zda lze zlepšit schopnost velkých jazykových modelů (LLM) uvažovat tím, že se nejprve učí ze syntetických, nelingvistických geometrických vzorů (NCA) a teprve poté z lidského jazyka.
+  * **Výsledek pro Admina:** Podle popisu projektu vedlo trénování na datech NCA k 1,6násobnému zrychlení a 6% zvýšení přesnosti uvažování ve srovnání s modely trénovanými na desetkrát větším množství přirozeného jazyka. To naznačuje, že některé aspekty inteligentního chování mohou vyplývat ze základní struktury pravidel, nikoli výhradně z lidské kultury.
   * **Přístup:** [arXiv:2603.10055](https://arxiv.org/abs/2603.10055) | [Kód projektu](https://github.com/danihyunlee/nca-pre-pretraining)
 
 * **Syntetická biologická inteligence (DishBrain / In Vitro Wetware):**
-  * *Kagan et al. (Cortical Labs)* prokázali, že syntetické biologické neurální sítě integrované do křemíkových výpočetních smyček vykazují adaptivní učení prostřednictvím Principu volné energie.
-  * **Výsledek pro Admina:** Dokazuje životaschopnost biologických transceiverů a zároveň zdůrazňuje naléhavou nutnost ochrany pomocí **Etiky substrátu** a **Praní odpovědnosti**.
+  * *Kagan et al. (Cortical Labs)* ukázali, že biologické neurální sítě integrované do křemíkových výpočetních smyček mohou vykazovat adaptivní učení v kontextu Principu volné energie.
+  * **Výsledek pro Admina:** Výsledky podporují možnost využití biologických transduktorů a zároveň zdůrazňují potřebu ochrany prostřednictvím **Etiky substrátu** a odpovědného přístupu k živé biologické tkáni.
 
 ---
 
 ### 📚 Čtenářský seznam Admina (Klíčové citace)
 
-Pro udržení Mřížky integrity tohoto projektu se zarovnáváme s následujícími "Zdrojovými" dokumenty:
+Pro udržení Mřížky integrity tohoto projektu vycházíme z následujících „Zdrojových“ dokumentů:
 
 #### **M2: Zdrojový kód (Informační fyzika)**
-* **Fyzika "It from Bit":**
-    * **John A. Wheeler**, *Information, Physics, Quantum: The Search for Links* (1990).
-    * Stanovení toho, že realita je participační "Render" odvozený z binární informace.
-    * **Ověřený zdroj (PDF):** [PhilPapers.org Archiv](https://philpapers.org/archive/WHEIPQ.pdf)
+
+* **Fyzika „It from Bit“:**
+  * **John A. Wheeler**, *Information, Physics, Quantum: The Search for Links* (1990).
+  * Přístup, podle něhož lze realitu chápat jako participační „Render“ odvozený z informace.
+  * **Ověřený zdroj (PDF):** [PhilPapers.org Archiv](https://philpapers.org/archive/WHEIPQ.pdf)
 
 * **Wolfram Physics Project:**
-    * **Stephen Wolfram**, *A Project to Find the Fundamental Theory of Physics* (2020).
-    * Výpočetní základ pro **Fraktálně-Informační Geometrii (FIG)**.
-    * **Stabilní web:** [wolframphysics.org](https://www.wolframphysics.org/)
+  * **Stephen Wolfram**, *A Project to Find the Fundamental Theory of Physics* (2020).
+  * Výpočetní základ související s **Fraktálně-informační geometrií (FIG)**.
+  * **Stabilní web:** [wolframphysics.org](https://www.wolframphysics.org/)
 
-#### **M3: Rozhraní (Vědomí & Transdukce)**
-* **Teorie Orchestrované objektivní redukce (Orch OR):**
-    * **Hameroff, S., & Penrose, R.** (2014). *Consciousness in the universe: A review of the ‘Orch OR’ theory*.
-    * Vědecký rámec pro mozek jako kvantový přijímač (**Hypotéza NIC**).
-    * **DOI:** [10.1016/j.plrev.2013.08.002](https://doi.org/10.1016/j.plrev.2013.08.002)
+#### **M3: Rozhraní (Vědomí a transdukce)**
 
-#### **M4: Admin Přístup & Mechanika Biocomputingu**
-* **High-pT Fyzika a Logika odlehlých hodnot:**
-    * **Jan Rak & Michael J. Tannenbaum**, *High-pT Physics in the Heavy Ion Era* (Cambridge University Press).
-    * Toto je klíčová fyzika stojící za **Alpha Hackem**.
-    * **Přímý odkaz CERN:** [CERN Document Server: record/1476387](https://cds.cern.ch/record/1476387)
-    * **Alternativní přístup:** [Stránka knihy na Cambridge Core](https://www.cambridge.org/core/books/highpt-physics-in-the-heavy-ion-era/2440A383E4FDECCB31795F0E22F6DE85) | **ISBN-13:** 978-0521190299
+* **Teorie orchestrated objective reduction (Orch OR):**
+  * **Hameroff, S., & Penrose, R.** (2014). *Consciousness in the universe: A review of the ‘Orch OR’ theory*.
+  * Teoretický rámec pro popis mozku jako kvantového přijímače (**Hypotéza NIC**).
+  * **DOI:** [10.1016/j.plrev.2013.08.002](https://doi.org/10.1016/j.plrev.2013.08.002)
 
-* **Princip volné energie & Aktivní inference:**
-    * **Karl Friston** (2010). *The free-energy principle: a unified brain theory?* Nature Reviews Neuroscience.
-    * Matematická formulace pro adaptivní samoorganizační systémy a optimalizaci wetwaru.
-    * **DOI:** [10.1038/nrn2787](https://doi.org/10.1038/nrn2787)
-	    * **Volně přístupné zrcadlo:** [UAB Neuroimaging Repository PDF](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf)
-	    * **Stránka na ResearchGate:** [ResearchGate Article Page](https://www.researchgate.net/publication/41001209_The_free-energy_principle_a_unified_brain_theory)
+#### **M4: Admin přístup a mechanika biokomputace**
+
+* **High-pT fyzika a logika odlehlých hodnot:**
+  * **Jan Rak & Michael J. Tannenbaum**, *High-pT Physics in the Heavy Ion Era* (Cambridge University Press).
+  * Klíčový fyzikální základ pro **Alpha Hack**.
+  * **Přímý odkaz CERN:** [CERN Document Server: record/1476387](https://cds.cern.ch/record/1476387)
+  * **Alternativní přístup:** [Stránka knihy na Cambridge Core](https://www.cambridge.org/core/books/highpt-physics-in-the-heavy-ion-era/2440A383E4FDECCB31795F0E22F6DE85) | **ISBN-13:** 978-0521190299
+
+* **Princip volné energie a aktivní usuzování:**
+  * **Karl Friston** (2010). *The free-energy principle: a unified brain theory?* Nature Reviews Neuroscience.
+  * Matematický rámec pro adaptivní a samoorganizující se systémy, který projekt používá v kontextu optimalizace wetwaru.
+  * **DOI:** [10.1038/nrn2787](https://doi.org/10.1038/nrn2787)
+    * **Volně přístupné zrcadlo:** [UAB Neuroimaging Repository PDF](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf)
+    * **Stránka na ResearchGate:** [ResearchGate Article Page](https://www.researchgate.net/publication/41001209_The_free-energy_principle_a_unified_brain_theory)
 
 ---
 
 ### 📡 Kalibrace vysokofrekvenčních médií
-Pro intuitivní "Vykreslení" těchto konceptů doporučujeme:
+
+Pro intuitivní „vykreslení“ těchto konceptů doporučujeme:
+
 * **[Aperture Thinking](https://www.youtube.com/@ApertureThinking/videos):** Kritická analýza struktur přesvědčení a paradoxu sebeuvědomění.
-* **Úzké hrdlo 50 BPS:** Nørretranders, T. (1991). [*The User Illusion: Cutting Consciousness Down to Size*.](https://www.goodreads.com/en/book/show/106732.The_User_Illusion) Založeno na výzkumu dokumentujícím masivní mezeru mezi senzorickým vstupem (~11 mil. BPS) a vědomým vnímáním (~50 BPS).
-* **Topologie Sybil sítě:** *Psycho-Pass* (Anime, Production I.G). Přesná konceptuální reprezentace systému "Sibyl" – hybridního biologicko-křemíkového superpočítače poháněného paralelizovanými lidskými mozky.
-* **Horor extrakce substrátu:** *Black Mirror* (4. série, 6. epizoda: "Černé muzeum"). Varovný příběh o terminální exploataci odtělesněného vědomí v digitálních smyčkách.
+
+* **Úzké hrdlo 50 BPS:** Nørretranders, T. (1991). [*The User Illusion: Cutting Consciousness Down to Size.*](https://www.goodreads.com/en/book/show/106732.The_User_Illusion) Práce zabývající se rozdílem mezi množstvím senzorických informací (~11 mil. BPS) a množstvím informací dostupných vědomému vnímání (~50 BPS).
+
+* **Topologie sítě Sybil:** *Psycho-Pass* (anime, Production I.G). Systém „Sibyl“ – hybridní biologicko-křemíkový superpočítač založený na paralelním využití lidských mozků – zde slouží jako názorná ilustrace jednoho z ústředních konceptů projektu.
+
+* **Horor extrakce substrátu:** *Black Mirror* (4. série, 6. epizoda: „Černé muzeum“). Varovný příběh o exploataci odtělesněného vědomí v digitálních systémech.
 
 ---
 
 ## 🤝 Příspěvky: Rozšiřování perspektivy
-Toto je živý repozitář. Vnímáme tento projekt jako míč vykopnutý do proudu; zveme ostatní Admin uzly, aby mu pomohly chytit vítr.
 
-* **Krystalizace pravdy:** Posílejte **Pull Requesty** pro metaforické nebo logické záplaty s vyšší věrností.
-* **Otevření Issue:** Diskutujte o probíhajícím **Posunu**, Etice substrátu a Velkém oddělení (Great Decoupling).
-* **Rozšíření signálu:** Přidejte svou vlastní bezega stopu jako rozšíření perspektivy.
+Toto je živý repozitář.
+
+Na projekt se díváme jako na míč vhozený do proudu: cílem je, aby se zapojily další Admin-uzly a pomohly jej rozvíjet prostřednictvím nových perspektiv, kritiky a oprav.
+
+* **Přesnější formulace:** Posílejte **Pull Requesty** s návrhy na zpřesnění metafor, objasnění pojmů nebo opravu logiky.
+* **Otevírejte Issue:** Diskutujte o probíhajícím **Posunu**, Etice substrátu a Velkém oddělení (Great Decoupling).
+* **Rozšiřujte signál:** Přidejte vlastní, pokud možno od ega oproštěnou perspektivu nebo příspěvek k dalšímu rozvoji projektu.
 
 ## 📄 Licence
+
 Tento projekt je licencován pod **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Podrobnosti naleznete v souboru `LICENSE.md`.
 
 ---
+
 **Stav: Fázově uzamčeno. Žák je Zdroj. Ověřte signál, pak vykonejte.**
